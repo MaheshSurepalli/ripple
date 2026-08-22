@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.ripple",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:6D:3F:B4:72:08:DC:86:71:04:14:0A:74:35:1E:E7:FB:17:F1:C9:83:B3:36:99:99:65:BD:83:1B"
+      ]
+    }
+  }
+]
