@@ -10,7 +10,7 @@ android {
     namespace = "com.example.ripple"
     compileSdk = 36
     defaultConfig {
-        applicationId = "com.example.ripple"
+        applicationId = "com.mahesh.ripple.app"
         minSdk = 24
         targetSdk = 36
         versionCode = 1
